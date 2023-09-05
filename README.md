@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm İsmet Ömer</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
@@ -26,10 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iomerkoyuncu&show_icons=true&locale=en" alt="iomerkoyuncu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iomerkoyuncu&" alt="iomerkoyuncu" /></p>
-
-
-[![İsmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=iomerkoyuncu)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **iomerkoyuncu/iomerkoyuncu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
